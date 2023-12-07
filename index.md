@@ -2,6 +2,10 @@
 
 My name is Marisa Flores, and I am currently a freshman pursuing a major in Computer Science at California State University, Fullerton. I am dedicated to expanding my knowledge in programming, algorithms, and data structures to graduate in 2027. Beyond my academic endeavors, I find immense joy in actively participating in extracurricular activities around environmental justice. As well as a community contributor, I am deeply invested in creating positive change within my university and the broader community. One of my key interests lies in establishing environmentally friendly practices and resources that contribute to a sustainable future.
 
+# Github Profile
+
+My Github profile page is https://github.com/FloresM2506.
+
 ## Favorite CPSC 120L Labs
 
 * Lab 1:
